@@ -209,7 +209,6 @@
 	<!--/ Scroll To Top End -->
 
 	<!-- Javascript -->
-	<script src="<?=content_url('plugins/pace/pace.min.js');?>"></script>
 	<script src="<?=content_url('plugins/feather/feather.min.js');?>"></script>
 	<script src="<?=content_url('plugins/jquery-ui/jquery-ui.js');?>"></script>
 	<script src="<?=content_url('plugins/popper/popper.js');?>"></script>
